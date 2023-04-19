@@ -2,13 +2,26 @@
 
 Pretty sparse - most of my repos are private and most of my work is unfortunately on several different Enterprise Github accounts :(
 
+What I'm using these days
 
-- front end dev
+- front end
    - react
    - typescript
    - tailwind
    - nextjs
-   - vercel
+   - vite
+
+- back end
+  - typescript
+  - zod
+  - prisma
+  - mysql
+
+- ops
+  - vercel
+  - aws
+  - github
+
 
 <!---
 eladage/eladage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
